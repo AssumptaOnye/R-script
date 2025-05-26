@@ -1,7 +1,7 @@
 ##################################################################
-# R codes for Chapter 6
-# Author: Chinenye Assumpta Nnakenyi
-# July 2020
+# R codes for Mutualistic meta-network
+# Author: Chinenye Assumpta Onyeagoziri
+# May 2025
 ##################################################################
 
 #### Libraries needed
